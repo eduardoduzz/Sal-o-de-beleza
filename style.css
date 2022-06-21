@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+
+h1{
+    font-family: 'Lobster', cursive;
+    text-align: center;
+    font-size: 0.5in;
+}
+
+h2{
+    font-family: 'Dancing Script', cursive;
+    text-align: center;
+    font-size: 0.4in;
+}
+#modelo{
+    background-color: #f7e8f7;
+}
+* {
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
+}
+
+#menu-h{
+    background-color: rgb(37, 37, 39);
+    text-align: center;
+}
+
+#menu-h ul {
+    max-width: 700px;
+    list-style: none;
+    padding: 0;
+}
+
+#menu-h ul li {
+    display: inline;
+}
+
+#menu-h ul li a {
+    color: #FFF;
+    padding: 20px;
+    display: inline-block;
+    text-decoration: none;
+    transition: background 3s;
+}
+
+#menu-h ul li a:hover {
+    background-color: #cd9dcd;
+}
+
+.img{
+    width: 1363px;
+    height: 385px;
+    
+}
+
+.imgs{
+    width: 5in;
+    height: 5in;
+}
+
+.text{
+    padding-top: 0.4in;
+    text-align: center;
+    font-size: 0.2in;
+}
+.text2{
+    padding-top: 0.1in;
+    text-align: center;
+    font-size: 0.2in;
+}
+
+.map{
+
+    padding-top: 0.4in;
+    text-align: center;
+
+}
+
+p{
+    padding-top: 0.4in;
+    text-align: center;
+    font-size: 0.2in;
+}
